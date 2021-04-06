@@ -2,12 +2,15 @@
 
 ## Quickstart
 
+- Rename the `.env.example` file to `.env.local` and fill in the variables.
+- `npm install`.
 - `npm run dev`.
 
 ## References
 
 - [#1 - Intro & Setup](https://youtu.be/m9mNsYJbkNg).
 - [#2 - Contentful Models](https://youtu.be/otLsndcnqKM).
+- [#3 - Contentful Client](https://youtu.be/sougdtlQlEk).
 
 ## Notes
 
@@ -15,3 +18,4 @@
 - [Contentful](https://www.contentful.com/) (headless CMS).
 - `Title must be between 3 & 50 chars long`.
 - Slug regex ([source](https://stackoverflow.com/a/19256344)): `^[a-z0-9]+(?:-[a-z0-9]+)*$`.
+- `npm i contentful`.
