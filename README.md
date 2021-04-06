@@ -6,11 +6,17 @@
 - `npm install`.
 - `npm run dev`.
 
+## Development
+
+- `npm run lint .`.
+
 ## References
 
 - [#1 - Intro & Setup](https://youtu.be/m9mNsYJbkNg).
 - [#2 - Contentful Models](https://youtu.be/otLsndcnqKM).
 - [#3 - Contentful Client](https://youtu.be/sougdtlQlEk).
+- Sarthak Sharma's [Setting up ESLint and Prettier For Your Next.js Project](https://xenox.dev/setting-up-eslint-and-prettier-for-next-js-project/) blog post.
+- Paulin Trognon's [Start a clean Next.js project with TypeScript, ESLint and Prettier from scratch](https://paulintrognon.fr/blog/typescript-prettier-eslint-next-js) blog post.
 
 ## Notes
 
@@ -19,3 +25,6 @@
 - `Title must be between 3 & 50 chars long`.
 - Slug regex ([source](https://stackoverflow.com/a/19256344)): `^[a-z0-9]+(?:-[a-z0-9]+)*$`.
 - `npm i contentful`.
+- `npm install -D eslint eslint-plugin-react eslint-plugin-react-hooks eslint-plugin-jsx-a11y`.
+- [VS Code ESLint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint).
+- `npm install -D prettier eslint-plugin-prettier eslint-config-prettier`.

@@ -1,18 +1,18 @@
-import { createClient } from "contentful";
+import { createClient } from 'contentful'
 
 export async function getStaticProps() {
   const client = createClient({
     space: process.env.CONTENTFUL_SPACE_ID,
     accessToken: process.env.CONTENTFUL_ACCESS_KEY,
-  });
+  })
 
-  const res = await client.getEntries({ content_type: "recipe" });
+  const res = await client.getEntries({ content_type: 'recipe' })
 
-  return { props: { recipes: res.items } };
+  return { props: { recipes: res.items } }
 }
 
 export default function Recipes({ recipes }) {
-  // console.log(recipes);
+  console.log(recipes)
 
-  return <div className="recipe-list">Recipe List</div>;
+  return <div className="recipe-list">Recipe List</div>
 }
