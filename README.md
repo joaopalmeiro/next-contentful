@@ -17,6 +17,8 @@
 - [#3 - Contentful Client](https://youtu.be/sougdtlQlEk).
 - Sarthak Sharma's [Setting up ESLint and Prettier For Your Next.js Project](https://xenox.dev/setting-up-eslint-and-prettier-for-next-js-project/) blog post.
 - Paulin Trognon's [Start a clean Next.js project with TypeScript, ESLint and Prettier from scratch](https://paulintrognon.fr/blog/typescript-prettier-eslint-next-js) blog post.
+- Eshwaren M's [Enable Emmet support for JSX in Visual Studio Code | React](https://medium.com/@eshwaren/enable-emmet-support-for-jsx-in-visual-studio-code-react-f1f5dfe8809c) blog post.
+- [#4 - Outputting Recipe Data](https://youtu.be/r-Xn1EQD_aU).
 
 ## Notes
 
