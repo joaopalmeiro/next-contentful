@@ -36,3 +36,4 @@
 - [the component gallery](https://component.gallery/) ([repo](https://github.com/inbn/component-gallery)):
   - [Layout CSS](https://github.com/inbn/component-gallery/tree/master/src/css/layout).
 - [Language Identifiers](https://code.visualstudio.com/docs/languages/identifiers) (VS Code).
+- [SmolCSS](https://smolcss.dev/).
