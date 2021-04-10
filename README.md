@@ -33,4 +33,6 @@
 - `npm install -D eslint eslint-plugin-react eslint-plugin-react-hooks eslint-plugin-jsx-a11y`.
 - [VS Code ESLint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint).
 - `npm install -D prettier eslint-plugin-prettier eslint-config-prettier`.
-- [the component gallery](https://component.gallery/) ([repo](https://github.com/inbn/component-gallery)).
+- [the component gallery](https://component.gallery/) ([repo](https://github.com/inbn/component-gallery)):
+  - [Layout CSS](https://github.com/inbn/component-gallery/tree/master/src/css/layout).
+- [Language Identifiers](https://code.visualstudio.com/docs/languages/identifiers) (VS Code).
