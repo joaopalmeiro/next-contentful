@@ -21,6 +21,7 @@
 - [#4 - Outputting Recipe Data](https://youtu.be/r-Xn1EQD_aU).
 - [#5 - Using Images from Contentful](https://youtu.be/Mdx3ywlnzk8).
 - [#6 - Styled JSX](https://youtu.be/IJjgueLbhic).
+- [#7 - Generating Paths](https://youtu.be/DRF1KBTH15k).
 
 ## Notes
 
@@ -32,3 +33,4 @@
 - `npm install -D eslint eslint-plugin-react eslint-plugin-react-hooks eslint-plugin-jsx-a11y`.
 - [VS Code ESLint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint).
 - `npm install -D prettier eslint-plugin-prettier eslint-config-prettier`.
+- [the component gallery](https://component.gallery/) ([repo](https://github.com/inbn/component-gallery)).
