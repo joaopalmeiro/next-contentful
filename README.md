@@ -22,6 +22,7 @@
 - [#5 - Using Images from Contentful](https://youtu.be/Mdx3ywlnzk8).
 - [#6 - Styled JSX](https://youtu.be/IJjgueLbhic).
 - [#7 - Generating Paths](https://youtu.be/DRF1KBTH15k).
+- [#8 - Rich Text Content](https://youtu.be/o6CnTHrwJ-Q).
 
 ## Notes
 
@@ -37,3 +38,6 @@
   - [Layout CSS](https://github.com/inbn/component-gallery/tree/master/src/css/layout).
 - [Language Identifiers](https://code.visualstudio.com/docs/languages/identifiers) (VS Code).
 - [SmolCSS](https://smolcss.dev/).
+- [Deep Water](https://marketplace.visualstudio.com/items?itemName=bDesigned.deep-water) (VS Code theme).
+- [Panda Syntax](https://marketplace.visualstudio.com/items?itemName=tinkertrain.theme-panda) (VS Code Theme).
+- [@contentful/rich-text-react-renderer](https://www.npmjs.com/package/@contentful/rich-text-react-renderer) package.
