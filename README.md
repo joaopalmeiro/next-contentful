@@ -23,6 +23,8 @@
 - [#6 - Styled JSX](https://youtu.be/IJjgueLbhic).
 - [#7 - Generating Paths](https://youtu.be/DRF1KBTH15k).
 - [#8 - Rich Text Content](https://youtu.be/o6CnTHrwJ-Q).
+- [#9 - Deploying to Vercel](https://youtu.be/0OOWCSVhHaU).
+- [#10 - Incremental Static Regeneration](https://youtu.be/X0-6lyxj1_Q).
 
 ## Notes
 
@@ -41,3 +43,5 @@
 - [Deep Water](https://marketplace.visualstudio.com/items?itemName=bDesigned.deep-water) (VS Code theme).
 - [Panda Syntax](https://marketplace.visualstudio.com/items?itemName=tinkertrain.theme-panda) (VS Code Theme).
 - [@contentful/rich-text-react-renderer](https://www.npmjs.com/package/@contentful/rich-text-react-renderer) package.
+- [Vercel](https://vercel.com/) (add the environment variables from the `.env.local` file).
+- Incremental Static Regeneration: Next.js generates new pages and regenerates the current pages on the fly when data is updated.
