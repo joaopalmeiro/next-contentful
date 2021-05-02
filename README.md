@@ -25,6 +25,7 @@
 - [#8 - Rich Text Content](https://youtu.be/o6CnTHrwJ-Q).
 - [#9 - Deploying to Vercel](https://youtu.be/0OOWCSVhHaU).
 - [#10 - Incremental Static Regeneration](https://youtu.be/X0-6lyxj1_Q).
+- [#11 - Fallback Pages](https://youtu.be/V4SVNleMitE).
 
 ## Notes
 
@@ -45,3 +46,4 @@
 - [@contentful/rich-text-react-renderer](https://www.npmjs.com/package/@contentful/rich-text-react-renderer) package.
 - [Vercel](https://vercel.com/) (add the environment variables from the `.env.local` file).
 - Incremental Static Regeneration: Next.js generates new pages and regenerates the current pages on the fly when data is updated.
+- Fallback pages: placeholder content while Next.js fetches new data for a page.
