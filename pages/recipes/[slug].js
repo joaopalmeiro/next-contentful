@@ -25,8 +25,20 @@ export const getStaticPaths = async () => {
   }
 }
 
+// When using a fallback page, this function is rerunned
 export async function getStaticProps({ params }) {
   const { items } = await client.getEntries({ content_type: 'recipe', 'fields.slug': params.slug })
+
+  // Conditional redirect
+  if (!items.length) {
+    return {
+      redirect: {
+        destination: '/',
+        // Because, in the future, we may have a page with the slug in question
+        permanent: false,
+      },
+    }
+  }
 
   return {
     props: { recipe: items[0] },

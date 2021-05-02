@@ -26,6 +26,7 @@
 - [#9 - Deploying to Vercel](https://youtu.be/0OOWCSVhHaU).
 - [#10 - Incremental Static Regeneration](https://youtu.be/X0-6lyxj1_Q).
 - [#11 - Fallback Pages](https://youtu.be/V4SVNleMitE).
+- [#12 - Conditional Redirects](https://youtu.be/QSOg8ZbwGpw).
 
 ## Notes
 
