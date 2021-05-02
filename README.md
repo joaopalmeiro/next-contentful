@@ -50,3 +50,4 @@
 - [Vercel](https://vercel.com/) (add the environment variables from the `.env.local` file).
 - Incremental Static Regeneration: Next.js generates new pages and regenerates the current pages on the fly when data is updated.
 - Fallback pages: placeholder content while Next.js fetches new data for a page.
+- [Classifying your repository with topics](https://docs.github.com/en/github/administering-a-repository/classifying-your-repository-with-topics).

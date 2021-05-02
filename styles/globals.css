@@ -18,7 +18,7 @@ header {
 header a {
   text-decoration: none;
   color: black;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   display: inline-block;
 }
 header h1,
@@ -36,6 +36,7 @@ header span:first-child {
 header span:last-child {
   font-size: 1.5em;
   font-weight: 800;
+  margin-bottom: calc(60px / 3);
 }
 header h2 {
   font-size: 1.2em;
